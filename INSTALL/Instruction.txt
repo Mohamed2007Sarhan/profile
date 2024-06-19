@@ -1,0 +1,24 @@
+To Install;
+
+-  Import the "database.sql" file into your phpmyadmin
+-  Update the database connection settings located in the file "z_db.php"
+-   Run your site in the browser.
+
+
+Default Admin
+
+
+Username: admin
+Password: admin
+
+
+Supports PHP Versions 5.6 and above.
+
+Enjoy!!!!!
+
+For more projects and support, contact;
+
+Whatsapp/Telegram/ +201557550635
+Facebook: #
+Instagram: #
+Email: sarhanmuhammad584@gmail.com
